@@ -1,0 +1,50 @@
+body {
+    background-color: #FFF8F5;
+    font-family: 'Poppins', sans-serif;
+    color: #5E4B56;
+}
+
+.pastel-nav {
+    background-color: #FFD6E8;
+}
+
+.nav-link {
+    color: #5E4B56 !important;
+    font-weight: 500;
+}
+
+.nav-link.active {
+    background-color: #FFB7C5 !important;
+    border-radius: 20px;
+    color: white !important;
+}
+
+/* Home Image */
+.home-img {
+    max-width: 600px;
+    border-radius: 25px;
+}
+
+/* Cards */
+.pastel-card {
+    background-color: #FFE5EC;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+}
+
+.pastel-card img {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+/* Gallery */
+.gallery-img {
+    border-radius: 20px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+/* Footer */
+.pastel-footer {
+    background-color: #FFD6E8;
+}
